@@ -1,0 +1,10 @@
+[23:03:40]: MoMeooW teleported to 0, 16, -1.
+[23:03:47]: MoMeooW teleported to 17, 17, 164.
+[23:12:42]: MoMeooW teleported to -1, 23, 154.
+[23:13:18]: MoMeooW teleported to 2, 21, 151.
+[23:14:02]: MoMeooW teleported to 27, 20, 158.
+[23:15:53]: MoMeooW teleported to 90, 29, 117.
+[23:16:05]: MoMeooW teleported to 90, 24, 117.
+[23:26:30]: MoMeooW teleported to 69, 35, 135.
+[23:26:44]: MoMeooW teleported to 69, 40, 135.
+[23:32:02]: MoMeooW teleported to 109, 37, 152.

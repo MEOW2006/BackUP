@@ -1,0 +1,658 @@
+[16:18:17]: The TPS is 0.
+[16:18:17]: The current RAM usage is 2785MB / 3800MB (73.29%).
+[16:18:17]: The current player count is 0.
+[17:27:39]: The TPS is 0.
+[17:27:39]: The current RAM usage is 3446MB / 3800MB (90.68%).
+[17:27:39]: The current player count is 0.
+[17:32:39]: The TPS is 20.
+[17:32:39]: The current RAM usage is 3633MB / 3800MB (95.61%).
+[17:32:39]: The current player count is 0.
+[17:37:39]: The TPS is 20.
+[17:37:39]: The current RAM usage is 3442MB / 3800MB (90.58%).
+[17:37:39]: The current player count is 0.
+[17:42:39]: The TPS is 20.
+[17:42:39]: The current RAM usage is 3550MB / 3800MB (93.42%).
+[17:42:39]: The current player count is 0.
+[17:47:39]: The TPS is 20.
+[17:47:39]: The current RAM usage is 3654MB / 3800MB (96.16%).
+[17:47:39]: The current player count is 0.
+[17:52:39]: The TPS is 20.
+[17:52:39]: The current RAM usage is 3444MB / 3800MB (90.63%).
+[17:52:39]: The current player count is 0.
+[17:57:39]: The TPS is 20.
+[17:57:39]: The current RAM usage is 3590MB / 3800MB (94.47%).
+[17:57:39]: The current player count is 0.
+[18:02:39]: The TPS is 20.
+[18:02:39]: The current RAM usage is 3380MB / 3800MB (88.95%).
+[18:02:39]: The current player count is 0.
+[18:07:39]: The TPS is 20.
+[18:07:39]: The current RAM usage is 3486MB / 3800MB (91.74%).
+[18:07:39]: The current player count is 0.
+[18:12:39]: The TPS is 20.
+[18:12:39]: The current RAM usage is 3601MB / 3800MB (94.76%).
+[18:12:39]: The current player count is 0.
+[18:17:39]: The TPS is 20.
+[18:17:39]: The current RAM usage is 3401MB / 3800MB (89.5%).
+[18:17:39]: The current player count is 0.
+[18:22:39]: The TPS is 20.
+[18:22:39]: The current RAM usage is 3523MB / 3800MB (92.71%).
+[18:22:39]: The current player count is 0.
+[18:27:39]: The TPS is 20.
+[18:27:39]: The current RAM usage is 3393MB / 3800MB (89.29%).
+[18:27:39]: The current player count is 0.
+[18:32:39]: The TPS is 20.
+[18:32:39]: The current RAM usage is 3532MB / 3800MB (92.95%).
+[18:32:39]: The current player count is 0.
+[18:37:39]: The TPS is 20.
+[18:37:39]: The current RAM usage is 3657MB / 3800MB (96.24%).
+[18:37:39]: The current player count is 0.
+[18:42:39]: The TPS is 20.
+[18:42:39]: The current RAM usage is 3468MB / 3800MB (91.26%).
+[18:42:39]: The current player count is 0.
+[18:47:39]: The TPS is 20.
+[18:47:39]: The current RAM usage is 3593MB / 3800MB (94.55%).
+[18:47:39]: The current player count is 0.
+[18:52:39]: The TPS is 20.
+[18:52:39]: The current RAM usage is 3377MB / 3800MB (88.87%).
+[18:52:39]: The current player count is 0.
+[18:57:39]: The TPS is 20.
+[18:57:39]: The current RAM usage is 3547MB / 3800MB (93.34%).
+[18:57:39]: The current player count is 0.
+[19:02:39]: The TPS is 20.
+[19:02:39]: The current RAM usage is 3672MB / 3800MB (96.63%).
+[19:02:39]: The current player count is 0.
+[19:07:39]: The TPS is 20.
+[19:07:39]: The current RAM usage is 3471MB / 3800MB (91.34%).
+[19:07:39]: The current player count is 0.
+[19:12:39]: The TPS is 20.
+[19:12:39]: The current RAM usage is 3605MB / 3800MB (94.87%).
+[19:12:39]: The current player count is 0.
+[19:17:39]: The TPS is 20.
+[19:17:39]: The current RAM usage is 3404MB / 3800MB (89.58%).
+[19:17:39]: The current player count is 0.
+[19:22:39]: The TPS is 20.
+[19:22:39]: The current RAM usage is 3531MB / 3800MB (92.92%).
+[19:22:39]: The current player count is 0.
+[19:27:39]: The TPS is 20.
+[19:27:39]: The current RAM usage is 3377MB / 3800MB (88.87%).
+[19:27:39]: The current player count is 0.
+[19:32:39]: The TPS is 20.
+[19:32:39]: The current RAM usage is 3507MB / 3800MB (92.29%).
+[19:32:39]: The current player count is 0.
+[19:37:39]: The TPS is 20.
+[19:37:39]: The current RAM usage is 3617MB / 3800MB (95.18%).
+[19:37:39]: The current player count is 0.
+[19:42:39]: The TPS is 20.
+[19:42:39]: The current RAM usage is 3406MB / 3800MB (89.63%).
+[19:42:39]: The current player count is 0.
+[19:47:39]: The TPS is 20.
+[19:47:39]: The current RAM usage is 3520MB / 3800MB (92.63%).
+[19:47:39]: The current player count is 0.
+[19:52:39]: The TPS is 20.
+[19:52:39]: The current RAM usage is 3638MB / 3800MB (95.74%).
+[19:52:39]: The current player count is 0.
+[19:57:39]: The TPS is 20.
+[19:57:39]: The current RAM usage is 3481MB / 3800MB (91.61%).
+[19:57:39]: The current player count is 0.
+[20:02:39]: The TPS is 20.
+[20:02:39]: The current RAM usage is 3593MB / 3800MB (94.55%).
+[20:02:39]: The current player count is 0.
+[20:07:39]: The TPS is 20.
+[20:07:39]: The current RAM usage is 3379MB / 3800MB (88.92%).
+[20:07:39]: The current player count is 0.
+[20:12:39]: The TPS is 20.
+[20:12:39]: The current RAM usage is 3495MB / 3800MB (91.97%).
+[20:12:39]: The current player count is 0.
+[20:17:39]: The TPS is 20.
+[20:17:39]: The current RAM usage is 3613MB / 3800MB (95.08%).
+[20:17:39]: The current player count is 0.
+[20:22:39]: The TPS is 20.
+[20:22:39]: The current RAM usage is 3397MB / 3800MB (89.39%).
+[20:22:39]: The current player count is 0.
+[20:27:39]: The TPS is 20.
+[20:27:39]: The current RAM usage is 3561MB / 3800MB (93.71%).
+[20:27:39]: The current player count is 0.
+[20:32:39]: The TPS is 20.
+[20:32:39]: The current RAM usage is 3671MB / 3800MB (96.61%).
+[20:32:39]: The current player count is 0.
+[20:37:39]: The TPS is 20.
+[20:37:39]: The current RAM usage is 3445MB / 3800MB (90.66%).
+[20:37:39]: The current player count is 0.
+[20:42:39]: The TPS is 20.
+[20:42:39]: The current RAM usage is 3555MB / 3800MB (93.55%).
+[20:42:39]: The current player count is 0.
+[20:47:39]: The TPS is 20.
+[20:47:39]: The current RAM usage is 3669MB / 3800MB (96.55%).
+[20:47:39]: The current player count is 0.
+[20:52:39]: The TPS is 20.
+[20:52:39]: The current RAM usage is 3444MB / 3800MB (90.63%).
+[20:52:39]: The current player count is 0.
+[20:57:39]: The TPS is 20.
+[20:57:39]: The current RAM usage is 3604MB / 3800MB (94.84%).
+[20:57:39]: The current player count is 0.
+[21:02:39]: The TPS is 20.
+[21:02:39]: The current RAM usage is 3377MB / 3800MB (88.87%).
+[21:02:39]: The current player count is 0.
+[21:07:39]: The TPS is 20.
+[21:07:39]: The current RAM usage is 3493MB / 3800MB (91.92%).
+[21:07:39]: The current player count is 0.
+[21:12:39]: The TPS is 20.
+[21:12:39]: The current RAM usage is 3603MB / 3800MB (94.82%).
+[21:12:39]: The current player count is 0.
+[21:17:39]: The TPS is 20.
+[21:17:39]: The current RAM usage is 3375MB / 3800MB (88.82%).
+[21:17:39]: The current player count is 0.
+[21:22:39]: The TPS is 20.
+[21:22:39]: The current RAM usage is 3486MB / 3800MB (91.74%).
+[21:22:39]: The current player count is 0.
+[21:27:39]: The TPS is 20.
+[21:27:39]: The current RAM usage is 3640MB / 3800MB (95.79%).
+[21:27:39]: The current player count is 0.
+[21:32:39]: The TPS is 20.
+[21:32:39]: The current RAM usage is 3408MB / 3800MB (89.68%).
+[21:32:39]: The current player count is 0.
+[21:37:39]: The TPS is 20.
+[21:37:39]: The current RAM usage is 3513MB / 3800MB (92.45%).
+[21:37:39]: The current player count is 0.
+[21:42:39]: The TPS is 20.
+[21:42:39]: The current RAM usage is 3618MB / 3800MB (95.21%).
+[21:42:39]: The current player count is 0.
+[21:44:53]: The TPS is 0.
+[21:44:53]: The current RAM usage is 3503MB / 3800MB (92.18%).
+[21:44:53]: The current player count is 0.
+[21:49:53]: The TPS is 20.
+[21:49:53]: The current RAM usage is 3571MB / 3800MB (93.97%).
+[21:49:53]: The current player count is 0.
+[21:54:53]: The TPS is 20.
+[21:54:53]: The current RAM usage is 3675MB / 3800MB (96.71%).
+[21:54:53]: The current player count is 0.
+[21:59:53]: The TPS is 20.
+[21:59:53]: The current RAM usage is 3440MB / 3800MB (90.53%).
+[21:59:53]: The current player count is 0.
+[22:04:53]: The TPS is 20.
+[22:04:53]: The current RAM usage is 3538MB / 3800MB (93.11%).
+[22:04:53]: The current player count is 0.
+[22:09:53]: The TPS is 20.
+[22:09:53]: The current RAM usage is 3619MB / 3800MB (95.24%).
+[22:09:53]: The current player count is 0.
+[22:13:07]: The TPS is 0.
+[22:13:07]: The current RAM usage is 3397MB / 3800MB (89.39%).
+[22:13:07]: The current player count is 0.
+[22:18:07]: The TPS is 20.
+[22:18:07]: The current RAM usage is 3660MB / 3800MB (96.32%).
+[22:18:07]: The current player count is 0.
+[22:23:07]: The TPS is 20.
+[22:23:07]: The current RAM usage is 3491MB / 3800MB (91.87%).
+[22:23:07]: The current player count is 0.
+[22:28:07]: The TPS is 20.
+[22:28:07]: The current RAM usage is 3622MB / 3800MB (95.32%).
+[22:28:07]: The current player count is 0.
+[22:33:07]: The TPS is 20.
+[22:33:07]: The current RAM usage is 3440MB / 3800MB (90.53%).
+[22:33:07]: The current player count is 0.
+[22:38:07]: The TPS is 20.
+[22:38:07]: The current RAM usage is 3583MB / 3800MB (94.29%).
+[22:38:07]: The current player count is 0.
+[22:43:07]: The TPS is 20.
+[22:43:07]: The current RAM usage is 3437MB / 3800MB (90.45%).
+[22:43:07]: The current player count is 0.
+[22:49:06]: The TPS is 0.
+[22:49:06]: The current RAM usage is 3505MB / 3800MB (92.24%).
+[22:49:06]: The current player count is 0.
+[22:54:13]: The TPS is 0.
+[22:54:13]: The current RAM usage is 3604MB / 3800MB (94.84%).
+[22:54:13]: The current player count is 0.
+[22:59:13]: The TPS is 20.
+[22:59:13]: The current RAM usage is 3424MB / 3800MB (90.11%).
+[22:59:13]: The current player count is 0.
+[23:02:01]: The TPS is 0.
+[23:02:01]: The current RAM usage is 3455MB / 3800MB (90.92%).
+[23:02:01]: The current player count is 0.
+[23:03:09]: The TPS is 0.
+[23:03:09]: The current RAM usage is 3533MB / 3800MB (92.97%).
+[23:03:09]: The current player count is 0.
+[23:03:40]: MoMeooW joined from the IP 197.41.195.167.
+[23:03:40]: MoMeooW teleported to 0, 16, -1.
+[23:03:47]: MoMeooW teleported to 17, 17, 164.
+[23:05:26]: MoMeooW ran the command /menu.
+[23:05:44]: MoMeooW ran the command /game.
+[23:06:15]: MoMeooW ran the command /slmenuopen#menu.
+[23:06:17]: MoMeooW ran the command /slmenuopen#game.
+[23:06:18]: MoMeooW ran the command /slmenuopen#menu.
+[23:06:24]: MoMeooW ran the command /game.
+[23:06:28]: MoMeooW ran the command /menu.
+[23:06:32]: MoMeooW ran the command /slmenuopen#profile.
+[23:06:38]: MoMeooW ran the command /menu.
+[23:06:50]: MoMeooW ran the command /papi ecloud download rs.
+[23:07:07]: MoMeooW ran the command /menu.
+[23:07:10]: MoMeooW ran the command /slmenuopen#profile.
+[23:07:22]: MoMeooW ran the command /menu.
+[23:07:27]: MoMeooW ran the command /menu.
+[23:07:30]: MoMeooW ran the command /slmenuopen#shop.
+[23:07:35]: MoMeooW ran the command /menu.
+[23:07:40]: MoMeooW ran the command /menu.
+[23:07:58]: MoMeooW broke the block GRASS_BLOCK at the location 47, 23, 194.
+[23:08:01]: MoMeooW ran the command /build.
+[23:08:02]: MoMeooW broke the block GRASS_BLOCK at the location 47, 23, 194.
+[23:08:08]: The TPS is 20.
+[23:08:08]: The current RAM usage is 3440MB / 3800MB (90.53%).
+[23:08:08]: The current player count is 1.
+[23:08:22]: MoMeooW placed the block QUARTZ_SLAB at the location 13, 18, 159.
+[23:08:23]: MoMeooW placed the block QUARTZ_SLAB at the location 12, 18, 158.
+[23:08:25]: MoMeooW placed the block QUARTZ_SLAB at the location 11, 18, 159.
+[23:08:25]: MoMeooW placed the block QUARTZ_SLAB at the location 11, 18, 159.
+[23:08:26]: MoMeooW placed the block QUARTZ_SLAB at the location 12, 18, 160.
+[23:08:28]: MoMeooW broke the block QUARTZ_SLAB at the location 11, 18, 159.
+[23:08:29]: MoMeooW placed the block QUARTZ_SLAB at the location 11, 18, 159.
+[23:08:31]: MoMeooW broke the block QUARTZ_SLAB at the location 11, 18, 159.
+[23:08:32]: MoMeooW broke the block QUARTZ_SLAB at the location 12, 18, 160.
+[23:08:34]: MoMeooW broke the block CHISELED_QUARTZ_BLOCK at the location 11, 17, 159.
+[23:08:35]: MoMeooW broke the block QUARTZ_SLAB at the location 12, 18, 158.
+[23:08:36]: MoMeooW broke the block QUARTZ_SLAB at the location 13, 18, 159.
+[23:08:38]: MoMeooW placed the block CHISELED_QUARTZ_BLOCK at the location 11, 17, 159.
+[23:09:20]: MoMeooW broke the block GRASS_BLOCK at the location 18, 13, 148.
+[23:09:25]: MoMeooW broke the block DIRT at the location 18, 13, 151.
+[23:09:26]: MoMeooW broke the block GRASS_BLOCK at the location 19, 13, 153.
+[23:09:27]: MoMeooW broke the block GRASS_BLOCK at the location 19, 13, 156.
+[23:09:30]: MoMeooW placed the block GRASS_BLOCK at the location 19, 13, 156.
+[23:09:31]: MoMeooW placed the block GRASS_BLOCK at the location 19, 13, 153.
+[23:09:32]: MoMeooW placed the block GRASS_BLOCK at the location 18, 13, 151.
+[23:09:34]: MoMeooW placed the block GRASS_BLOCK at the location 18, 14, 148.
+[23:09:40]: MoMeooW broke the block GRASS_BLOCK at the location 18, 14, 148.
+[23:09:41]: MoMeooW placed the block GRASS_BLOCK at the location 18, 13, 148.
+[23:10:42]: MoMeooW placed the block STONE_PRESSURE_PLATE at the location 15, 17, 166.
+[23:10:46]: MoMeooW broke the block QUARTZ_BLOCK at the location 15, 16, 167.
+[23:10:47]: MoMeooW broke the block STONE_PRESSURE_PLATE at the location 15, 17, 166.
+[23:10:48]: MoMeooW placed the block STONE_PRESSURE_PLATE at the location 15, 17, 166.
+[23:10:51]: MoMeooW placed the block STONE_PRESSURE_PLATE at the location 15, 17, 165.
+[23:10:52]: MoMeooW broke the block STONE_PRESSURE_PLATE at the location 15, 17, 165.
+[23:10:53]: MoMeooW broke the block STONE_PRESSURE_PLATE at the location 15, 17, 166.
+[23:10:54]: MoMeooW placed the block QUARTZ_BLOCK at the location 15, 16, 167.
+[23:11:01]: MoMeooW placed the block OAK_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:03]: MoMeooW broke the block OAK_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:04]: MoMeooW placed the block STONE_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:05]: MoMeooW broke the block STONE_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:06]: MoMeooW placed the block HEAVY_WEIGHTED_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:08]: MoMeooW broke the block HEAVY_WEIGHTED_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:08]: MoMeooW placed the block LIGHT_WEIGHTED_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:16]: MoMeooW broke the block LIGHT_WEIGHTED_PRESSURE_PLATE at the location 17, 17, 164.
+[23:11:23]: MoMeooW placed the block LIGHT_WEIGHTED_PRESSURE_PLATE at the location 17, 17, 162.
+[23:11:50]: MoMeooW broke the block LIGHT_WEIGHTED_PRESSURE_PLATE at the location 17, 17, 162.
+[23:12:42]: MoMeooW ran the command /up 1.
+[23:12:42]: MoMeooW teleported to -1, 23, 154.
+[23:12:52]: MoMeooW placed the block GLASS at the location -1, 22, 153.
+[23:12:52]: MoMeooW placed the block GLASS at the location -1, 22, 152.
+[23:12:53]: MoMeooW placed the block GLASS at the location -1, 22, 151.
+[23:12:53]: MoMeooW placed the block GLASS at the location -1, 22, 150.
+[23:12:57]: MoMeooW placed the block GLASS at the location -2, 22, 150.
+[23:12:58]: MoMeooW placed the block GLASS at the location -2, 22, 149.
+[23:12:59]: MoMeooW placed the block GLASS at the location -2, 22, 148.
+[23:13:08]: The TPS is 20.
+[23:13:08]: The current RAM usage is 3443MB / 3800MB (90.61%).
+[23:13:08]: The current player count is 1.
+[23:13:18]: MoMeooW teleported to 2, 21, 151.
+[23:13:25]: MoMeooW broke the block GLASS at the location -2, 22, 148.
+[23:13:25]: MoMeooW broke the block GLASS at the location -2, 22, 149.
+[23:13:25]: MoMeooW broke the block GLASS at the location -2, 22, 150.
+[23:13:26]: MoMeooW broke the block GLASS at the location -1, 22, 150.
+[23:13:26]: MoMeooW broke the block GLASS at the location -1, 22, 151.
+[23:13:26]: MoMeooW broke the block GLASS at the location -1, 22, 152.
+[23:13:26]: MoMeooW broke the block GLASS at the location -1, 22, 153.
+[23:13:28]: MoMeooW broke the block GLASS at the location -1, 22, 154.
+[23:14:02]: MoMeooW teleported to 27, 20, 158.
+[23:14:14]: MoMeooW ran the command //copy.
+[23:14:41]: MoMeooW ran the command //cyl grass 20.
+[23:14:54]: MoMeooW ran the command //cyl grass_block 20.
+[23:15:53]: MoMeooW ran the command /up 10.
+[23:15:53]: MoMeooW teleported to 90, 29, 117.
+[23:15:59]: MoMeooW broke the block GLASS at the location 90, 28, 117.
+[23:16:05]: MoMeooW ran the command /up 5.
+[23:16:05]: MoMeooW teleported to 90, 24, 117.
+[23:16:13]: MoMeooW ran the command //paste.
+[23:16:27]: MoMeooW broke the block GLASS at the location 90, 23, 117.
+[23:17:27]: MoMeooW ran the command //cyl.
+[23:17:59]: MoMeooW ran the command //hcyl stone_brick.
+[23:18:08]: The TPS is 20.
+[23:18:08]: The current RAM usage is 3499MB / 3800MB (92.08%).
+[23:18:08]: The current player count is 1.
+[23:18:32]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 90, 23, 118.
+[23:18:33]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 90, 22, 118.
+[23:18:34]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 90, 21, 118.
+[23:18:35]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 90, 21, 119.
+[23:18:36]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 90, 20, 118.
+[23:18:38]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 90, 19, 118.
+[23:18:38]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 90, 21, 119.
+[23:18:39]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 90, 21, 118.
+[23:18:39]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 90, 22, 118.
+[23:18:39]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 90, 23, 118.
+[23:18:40]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 90, 20, 118.
+[23:18:41]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 90, 19, 118.
+[23:18:53]: MoMeooW ran the command //hcyl stone_brick 16 6.
+[23:19:04]: MoMeooW ran the command //hcyl stonebrick 16 6.
+[23:19:27]: MoMeooW ran the command //hcyl stonebrick 16 6.
+[23:19:34]: MoMeooW ran the command //hcyl brick 16 6.
+[23:19:47]: MoMeooW ran the command //hcyl 98 16 6.
+[23:20:20]: MoMeooW ran the command /undo.
+[23:20:27]: MoMeooW ran the command //hcyl 98 15 5.
+[23:20:47]: MoMeooW placed the block STONE_BRICKS at the location 100, 23, 121.
+[23:20:48]: MoMeooW placed the block STONE_BRICKS at the location 100, 22, 121.
+[23:20:48]: MoMeooW placed the block STONE_BRICKS at the location 100, 21, 121.
+[23:20:48]: MoMeooW placed the block STONE_BRICKS at the location 100, 21, 120.
+[23:20:49]: MoMeooW placed the block STONE_BRICKS at the location 100, 20, 121.
+[23:20:49]: MoMeooW placed the block STONE_BRICKS at the location 100, 19, 121.
+[23:20:50]: MoMeooW broke the block STONE_BRICKS at the location 100, 21, 120.
+[23:20:50]: MoMeooW placed the block STONE_BRICKS at the location 101, 23, 122.
+[23:20:51]: MoMeooW placed the block STONE_BRICKS at the location 101, 22, 122.
+[23:20:51]: MoMeooW placed the block STONE_BRICKS at the location 101, 21, 122.
+[23:20:52]: MoMeooW placed the block STONE_BRICKS at the location 101, 20, 122.
+[23:20:53]: MoMeooW placed the block STONE_BRICKS at the location 101, 19, 122.
+[23:20:53]: MoMeooW placed the block STONE_BRICKS at the location 102, 19, 123.
+[23:20:54]: MoMeooW placed the block STONE_BRICKS at the location 102, 21, 123.
+[23:20:55]: MoMeooW placed the block STONE_BRICKS at the location 102, 23, 123.
+[23:20:55]: MoMeooW placed the block STONE_BRICKS at the location 102, 22, 123.
+[23:20:56]: MoMeooW placed the block STONE_BRICKS at the location 102, 20, 123.
+[23:21:24]: MoMeooW placed the block STONE_BRICK_SLAB at the location 102, 26, 132.
+[23:21:24]: MoMeooW placed the block STONE_BRICK_SLAB at the location 102, 26, 133.
+[23:21:25]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 26, 133.
+[23:21:27]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 103, 25, 132.
+[23:21:28]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 25, 132.
+[23:21:29]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 26, 133.
+[23:21:30]: MoMeooW broke the block STONE_BRICK_SLAB at the location 103, 26, 133.
+[23:21:32]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 133.
+[23:21:35]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 132.
+[23:21:36]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 26, 133.
+[23:21:37]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 131.
+[23:21:38]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 131.
+[23:21:40]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 130.
+[23:21:40]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 130.
+[23:21:41]: MoMeooW placed the block STONE_BRICK_SLAB at the location 106, 25, 130.
+[23:21:42]: MoMeooW placed the block STONE_BRICK_SLAB at the location 107, 25, 130.
+[23:21:43]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 129.
+[23:21:43]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 129.
+[23:21:44]: MoMeooW placed the block STONE_BRICK_SLAB at the location 106, 25, 129.
+[23:21:45]: MoMeooW placed the block STONE_BRICK_SLAB at the location 107, 25, 129.
+[23:21:50]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 24, 129.
+[23:21:52]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 24, 128.
+[23:21:53]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 25, 128.
+[23:21:55]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 25, 128.
+[23:21:56]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 25, 128.
+[23:21:58]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 25, 128.
+[23:22:00]: MoMeooW placed the block STONE_BRICKS at the location 103, 25, 129.
+[23:22:03]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 103, 25, 128.
+[23:22:04]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 103, 25, 128.
+[23:22:04]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 103, 25, 128.
+[23:22:09]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 103, 25, 131.
+[23:22:10]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 25, 131.
+[23:22:10]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 25, 131.
+[23:22:14]: MoMeooW placed the block STONE_BRICK_SLAB at the location 106, 25, 131.
+[23:22:15]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 132.
+[23:22:17]: MoMeooW placed the block STONE_BRICK_SLAB at the location 102, 26, 134.
+[23:22:19]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 103, 25, 134.
+[23:22:21]: MoMeooW placed the block STONE_BRICKS at the location 103, 25, 134.
+[23:22:21]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 103, 25, 135.
+[23:22:21]: MoMeooW placed the block STONE_BRICKS at the location 103, 25, 135.
+[23:22:26]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 26, 132.
+[23:22:35]: MoMeooW placed the block STONE_BRICKS at the location 105, 24, 127.
+[23:22:36]: MoMeooW broke the block STONE_BRICKS at the location 105, 24, 127.
+[23:22:38]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 24, 127.
+[23:22:39]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 25, 127.
+[23:22:41]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 24, 127.
+[23:22:42]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 24, 127.
+[23:22:44]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 23, 126.
+[23:22:45]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 23, 127.
+[23:22:45]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 23, 126.
+[23:22:46]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 23, 126.
+[23:22:47]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 23, 126.
+[23:22:49]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 23, 125.
+[23:22:49]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 23, 125.
+[23:22:50]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 23, 125.
+[23:22:50]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 104, 23, 125.
+[23:22:52]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 22, 125.
+[23:22:53]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 104, 22, 125.
+[23:22:54]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 22, 125.
+[23:22:55]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 22, 125.
+[23:22:55]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 22, 125.
+[23:22:56]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 22, 125.
+[23:22:59]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 103, 21, 124.
+[23:23:00]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 21, 124.
+[23:23:01]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 21, 124.
+[23:23:01]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 21, 124.
+[23:23:02]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 21, 124.
+[23:23:04]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 103, 20, 123.
+[23:23:05]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 20, 123.
+[23:23:06]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 20, 123.
+[23:23:07]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 20, 123.
+[23:23:08]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 20, 123.
+[23:23:08]: The TPS is 20.
+[23:23:08]: The current RAM usage is 3527MB / 3800MB (92.82%).
+[23:23:08]: The current player count is 1.
+[23:23:10]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 102, 19, 122.
+[23:23:11]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 103, 19, 122.
+[23:23:11]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 104, 19, 122.
+[23:23:12]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 105, 19, 122.
+[23:23:12]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 106, 19, 122.
+[23:23:13]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 19, 122.
+[23:23:19]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 25, 127.
+[23:23:29]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 107, 19, 122.
+[23:23:29]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 19, 122.
+[23:23:33]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 107, 19, 122.
+[23:23:35]: MoMeooW placed the block STONE_BRICK_STAIRS at the location 107, 19, 122.
+[23:23:42]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 124.
+[23:23:46]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 123.
+[23:23:46]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 124.
+[23:23:46]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 125.
+[23:23:47]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 126.
+[23:23:47]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 127.
+[23:23:48]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 125.
+[23:23:49]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 126.
+[23:23:49]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 127.
+[23:23:50]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 125.
+[23:23:50]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 126.
+[23:23:51]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 127.
+[23:23:51]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 126.
+[23:23:52]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 127.
+[23:23:52]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 127.
+[23:23:53]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 128.
+[23:23:54]: MoMeooW placed the block STONE_BRICKS at the location 107, 24, 128.
+[23:23:55]: MoMeooW placed the block STONE_BRICKS at the location 107, 24, 129.
+[23:23:58]: MoMeooW placed the block STONE_BRICK_SLAB at the location 107, 25, 129.
+[23:23:59]: MoMeooW placed the block STONE_BRICK_SLAB at the location 107, 25, 130.
+[23:24:00]: MoMeooW placed the block STONE_BRICKS at the location 107, 24, 130.
+[23:24:00]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 129.
+[23:24:01]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 130.
+[23:24:02]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 128.
+[23:24:02]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 129.
+[23:24:03]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 130.
+[23:24:04]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 128.
+[23:24:04]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 129.
+[23:24:04]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 130.
+[23:24:05]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 128.
+[23:24:05]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 129.
+[23:24:06]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 130.
+[23:24:07]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 128.
+[23:24:07]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 129.
+[23:24:08]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 130.
+[23:24:14]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 24, 131.
+[23:24:15]: MoMeooW broke the block QUARTZ_BLOCK at the location 104, 24, 131.
+[23:24:16]: MoMeooW placed the block STONE_BRICKS at the location 104, 24, 131.
+[23:24:16]: MoMeooW placed the block STONE_BRICKS at the location 105, 24, 131.
+[23:24:16]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 24, 133.
+[23:24:17]: MoMeooW placed the block STONE_BRICKS at the location 105, 24, 133.
+[23:24:18]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 24, 132.
+[23:24:18]: MoMeooW placed the block STONE_BRICKS at the location 105, 24, 132.
+[23:24:19]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 24, 134.
+[23:24:19]: MoMeooW placed the block STONE_BRICKS at the location 105, 24, 134.
+[23:24:20]: MoMeooW broke the block STONE_BRICK_STAIRS at the location 105, 24, 135.
+[23:24:21]: MoMeooW placed the block STONE_BRICKS at the location 105, 24, 135.
+[23:24:32]: MoMeooW placed the block STONE_BRICK_SLAB at the location 102, 26, 131.
+[23:24:40]: MoMeooW placed the block STONE_BRICK_SLAB at the location 107, 25, 131.
+[23:24:41]: MoMeooW placed the block STONE_BRICK_SLAB at the location 106, 25, 132.
+[23:24:42]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 133.
+[23:24:43]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 134.
+[23:24:44]: MoMeooW placed the block STONE_BRICK_SLAB at the location 103, 26, 134.
+[23:24:50]: MoMeooW placed the block STONE_BRICK_SLAB at the location 104, 25, 134.
+[23:24:50]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 134.
+[23:24:51]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 133.
+[23:25:07]: MoMeooW placed the block STONE_BRICKS at the location 106, 25, 133.
+[23:25:08]: MoMeooW placed the block STONE_BRICKS at the location 107, 25, 133.
+[23:25:09]: MoMeooW placed the block STONE_BRICKS at the location 107, 25, 132.
+[23:25:10]: MoMeooW placed the block STONE_BRICK_SLAB at the location 107, 25, 131.
+[23:25:12]: MoMeooW placed the block STONE_BRICKS at the location 107, 24, 131.
+[23:25:13]: MoMeooW placed the block STONE_BRICKS at the location 107, 24, 132.
+[23:25:13]: MoMeooW placed the block STONE_BRICKS at the location 107, 24, 133.
+[23:25:14]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 131.
+[23:25:14]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 132.
+[23:25:15]: MoMeooW placed the block STONE_BRICKS at the location 107, 23, 133.
+[23:25:16]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 131.
+[23:25:16]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 132.
+[23:25:17]: MoMeooW placed the block STONE_BRICKS at the location 107, 22, 133.
+[23:25:19]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 131.
+[23:25:19]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 131.
+[23:25:20]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 132.
+[23:25:20]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 132.
+[23:25:21]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 131.
+[23:25:21]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 132.
+[23:25:22]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 133.
+[23:25:22]: MoMeooW placed the block STONE_BRICKS at the location 106, 21, 132.
+[23:25:24]: MoMeooW placed the block STONE_BRICKS at the location 107, 21, 133.
+[23:25:24]: MoMeooW placed the block STONE_BRICKS at the location 107, 20, 133.
+[23:25:26]: MoMeooW placed the block STONE_BRICKS at the location 106, 19, 133.
+[23:25:27]: MoMeooW placed the block STONE_BRICKS at the location 106, 20, 133.
+[23:25:27]: MoMeooW placed the block STONE_BRICKS at the location 106, 21, 133.
+[23:25:28]: MoMeooW placed the block STONE_BRICKS at the location 106, 22, 133.
+[23:25:28]: MoMeooW placed the block STONE_BRICKS at the location 106, 23, 133.
+[23:25:29]: MoMeooW placed the block STONE_BRICKS at the location 106, 24, 133.
+[23:25:33]: MoMeooW broke the block STONE_BRICK_SLAB at the location 105, 25, 133.
+[23:25:35]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 133.
+[23:25:35]: MoMeooW broke the block STONE_BRICK_SLAB at the location 105, 25, 134.
+[23:25:38]: MoMeooW placed the block STONE_BRICK_SLAB at the location 105, 25, 134.
+[23:25:39]: MoMeooW placed the block STONE_BRICK_SLAB at the location 106, 25, 134.
+[23:25:55]: MoMeooW placed the block STONE_BRICKS at the location 106, 19, 135.
+[23:25:55]: MoMeooW placed the block STONE_BRICKS at the location 107, 19, 135.
+[23:25:57]: MoMeooW placed the block STONE_BRICKS at the location 108, 19, 135.
+[23:25:57]: MoMeooW placed the block STONE_BRICKS at the location 109, 19, 135.
+[23:26:09]: MoMeooW placed the block STONE_BRICKS at the location 74, 19, 135.
+[23:26:11]: MoMeooW placed the block STONE_BRICKS at the location 73, 19, 135.
+[23:26:12]: MoMeooW placed the block STONE_BRICKS at the location 72, 19, 135.
+[23:26:12]: MoMeooW placed the block STONE_BRICKS at the location 71, 19, 135.
+[23:26:12]: MoMeooW placed the block STONE_BRICKS at the location 70, 19, 135.
+[23:26:13]: MoMeooW placed the block STONE_BRICKS at the location 69, 19, 135.
+[23:26:13]: MoMeooW placed the block STONE_BRICKS at the location 69, 20, 135.
+[23:26:14]: MoMeooW broke the block STONE_BRICKS at the location 69, 20, 135.
+[23:26:30]: MoMeooW ran the command /up 15.
+[23:26:30]: MoMeooW teleported to 69, 35, 135.
+[23:26:44]: MoMeooW ran the command /up 5.
+[23:26:44]: MoMeooW teleported to 69, 40, 135.
+[23:26:57]: MoMeooW ran the command //set 98.
+[23:27:47]: MoMeooW ran the command //copy.
+[23:27:52]: MoMeooW ran the command //rotate 180.
+[23:27:54]: MoMeooW ran the command //paste.
+[23:28:08]: The TPS is 20.
+[23:28:08]: The current RAM usage is 3631MB / 3800MB (95.55%).
+[23:28:08]: The current player count is 1.
+[23:28:17]: MoMeooW ran the command //rotate 180o.
+[23:28:21]: MoMeooW ran the command /undo.
+[23:28:26]: MoMeooW ran the command //rotate 90.
+[23:28:28]: MoMeooW ran the command //paste.
+[23:28:43]: MoMeooW ran the command /undo.
+[23:28:44]: MoMeooW ran the command //rotate 90.
+[23:28:46]: MoMeooW ran the command //paste.
+[23:28:53]: MoMeooW ran the command /undo.
+[23:28:59]: MoMeooW ran the command //flip.
+[23:29:04]: MoMeooW ran the command //paste.
+[23:29:15]: MoMeooW ran the command /undo.
+[23:29:23]: MoMeooW ran the command //rotate 180.
+[23:29:24]: MoMeooW ran the command //paste.
+[23:29:39]: MoMeooW placed the block STONE_BRICKS at the location 79, 23, 122.
+[23:29:39]: MoMeooW placed the block STONE_BRICKS at the location 79, 22, 122.
+[23:29:40]: MoMeooW placed the block STONE_BRICKS at the location 79, 21, 122.
+[23:29:40]: MoMeooW placed the block STONE_BRICKS at the location 79, 19, 122.
+[23:29:41]: MoMeooW placed the block STONE_BRICKS at the location 79, 20, 122.
+[23:29:41]: MoMeooW placed the block STONE_BRICKS at the location 80, 19, 121.
+[23:29:41]: MoMeooW placed the block STONE_BRICKS at the location 80, 20, 121.
+[23:29:42]: MoMeooW placed the block STONE_BRICKS at the location 80, 23, 121.
+[23:29:43]: MoMeooW placed the block STONE_BRICKS at the location 80, 22, 121.
+[23:29:43]: MoMeooW placed the block STONE_BRICKS at the location 80, 21, 121.
+[23:30:12]: MoMeooW placed the block LIGHT_WEIGHTED_PRESSURE_PLATE at the location 90, 19, 116.
+[23:31:05]: MoMeooW broke the block STONE_BRICKS at the location 71, 19, 135.
+[23:31:06]: MoMeooW broke the block STONE_BRICKS at the location 71, 21, 135.
+[23:31:06]: MoMeooW broke the block STONE_BRICKS at the location 71, 20, 135.
+[23:31:07]: MoMeooW placed the block STONE_BRICKS at the location 71, 19, 135.
+[23:31:14]: MoMeooW ran the command //set 0.
+[23:31:39]: MoMeooW ran the command //set 98.
+[23:31:50]: MoMeooW ran the command //set 98.
+[23:32:02]: MoMeooW ran the command /up 1.
+[23:32:02]: MoMeooW teleported to 109, 37, 152.
+[23:32:06]: MoMeooW ran the command //set 0.
+[23:32:37]: MoMeooW placed the block STONE_BRICKS at the location 72, 19, 136.
+[23:32:37]: MoMeooW placed the block STONE_BRICKS at the location 72, 18, 135.
+[23:32:38]: MoMeooW placed the block STONE_BRICKS at the location 71, 18, 135.
+[23:32:39]: MoMeooW placed the block STONE_BRICKS at the location 70, 18, 135.
+[23:32:40]: MoMeooW placed the block STONE_BRICKS at the location 69, 18, 135.
+[23:32:44]: MoMeooW broke the block STONE_BRICKS at the location 69, 18, 135.
+[23:32:45]: MoMeooW placed the block STONE_BRICKS at the location 70, 18, 136.
+[23:32:48]: MoMeooW broke the block STONE_BRICKS at the location 72, 19, 136.
+[23:32:53]: MoMeooW ran the command //set grass_block.
+[23:33:01]: MoMeooW broke the block GRASS_BLOCK at the location 83, 18, 137.
+[23:33:01]: MoMeooW broke the block GRASS_BLOCK at the location 84, 18, 137.
+[23:33:01]: MoMeooW broke the block GRASS_BLOCK at the location 85, 18, 137.
+[23:33:01]: MoMeooW broke the block GRASS_BLOCK at the location 86, 18, 137.
+[23:33:01]: MoMeooW broke the block GRASS_BLOCK at the location 87, 18, 137.
+[23:33:02]: MoMeooW broke the block GRASS_BLOCK at the location 88, 18, 137.
+[23:33:02]: MoMeooW broke the block GRASS_BLOCK at the location 89, 18, 137.
+[23:33:03]: MoMeooW broke the block GRASS_BLOCK at the location 90, 18, 137.
+[23:33:03]: MoMeooW broke the block GRASS_BLOCK at the location 89, 18, 138.
+[23:33:03]: MoMeooW broke the block GRASS_BLOCK at the location 87, 18, 138.
+[23:33:03]: MoMeooW broke the block GRASS_BLOCK at the location 88, 18, 138.
+[23:33:04]: MoMeooW broke the block GRASS_BLOCK at the location 86, 18, 138.
+[23:33:04]: MoMeooW broke the block GRASS_BLOCK at the location 90, 18, 138.
+[23:33:04]: MoMeooW broke the block GRASS_BLOCK at the location 91, 18, 137.
+[23:33:05]: MoMeooW broke the block GRASS_BLOCK at the location 92, 18, 137.
+[23:33:05]: MoMeooW broke the block GRASS_BLOCK at the location 91, 18, 138.
+[23:33:05]: MoMeooW broke the block GRASS_BLOCK at the location 92, 18, 138.
+[23:33:06]: MoMeooW broke the block GRASS_BLOCK at the location 93, 18, 138.
+[23:33:06]: MoMeooW broke the block GRASS_BLOCK at the location 94, 18, 138.
+[23:33:06]: MoMeooW broke the block GRASS_BLOCK at the location 93, 18, 137.
+[23:33:06]: MoMeooW broke the block GRASS_BLOCK at the location 95, 18, 137.
+[23:33:07]: MoMeooW broke the block GRASS_BLOCK at the location 96, 18, 137.
+[23:33:07]: MoMeooW broke the block GRASS_BLOCK at the location 97, 18, 137.
+[23:33:07]: MoMeooW broke the block GRASS_BLOCK at the location 94, 18, 137.
+[23:33:08]: The TPS is 20.
+[23:33:08]: The current RAM usage is 3505MB / 3800MB (92.24%).
+[23:33:08]: The current player count is 1.
+[23:33:21]: MoMeooW placed the block STONE_BRICKS at the location 72, 24, 134.
+[23:33:21]: MoMeooW placed the block STONE_BRICKS at the location 72, 23, 134.
+[23:33:23]: MoMeooW placed the block STONE_BRICKS at the location 72, 23, 133.
+[23:33:27]: MoMeooW placed the block STONE_BRICKS at the location 72, 25, 134.
+[23:33:28]: MoMeooW placed the block STONE_BRICKS at the location 72, 24, 133.
+[23:33:29]: MoMeooW placed the block STONE_BRICKS at the location 72, 23, 132.
+[23:33:32]: MoMeooW placed the block STONE_BRICKS at the location 72, 22, 131.
+[23:33:34]: MoMeooW placed the block STONE_BRICKS at the location 72, 21, 130.
+[23:33:35]: MoMeooW placed the block STONE_BRICKS at the location 72, 20, 129.
+[23:33:37]: MoMeooW placed the block STONE_BRICKS at the location 72, 19, 128.
+[23:33:44]: MoMeooW broke the block STONE_BRICKS at the location 72, 24, 133.
+[23:33:46]: MoMeooW broke the block STONE_BRICKS at the location 72, 25, 134.
+[23:33:46]: MoMeooW broke the block STONE_BRICKS at the location 72, 24, 134.
+[23:33:47]: MoMeooW broke the block STONE_BRICKS at the location 72, 23, 134.
+[23:33:47]: MoMeooW broke the block STONE_BRICKS at the location 72, 23, 133.
+[23:33:48]: MoMeooW broke the block STONE_BRICKS at the location 72, 23, 132.
+[23:33:48]: MoMeooW broke the block STONE_BRICKS at the location 72, 22, 131.
+[23:33:49]: MoMeooW broke the block STONE_BRICKS at the location 72, 21, 130.
+[23:33:49]: MoMeooW broke the block STONE_BRICKS at the location 72, 20, 129.
+[23:33:52]: MoMeooW broke the block STONE_BRICKS at the location 72, 19, 128.
+[23:36:58]: MoMeooW quit at the location 90, 30, 100. Their IP was 197.41.195.167.
+[23:38:08]: The TPS is 20.
+[23:38:08]: The current RAM usage is 3480MB / 3800MB (91.58%).
+[23:38:08]: The current player count is 0.
+[23:43:08]: The TPS is 20.
+[23:43:08]: The current RAM usage is 3580MB / 3800MB (94.21%).
+[23:43:08]: The current player count is 0.
+[23:48:08]: The TPS is 20.
+[23:48:08]: The current RAM usage is 3675MB / 3800MB (96.71%).
+[23:48:08]: The current player count is 0.
+[23:53:08]: The TPS is 20.
+[23:53:08]: The current RAM usage is 3325MB / 3800MB (87.5%).
+[23:53:08]: The current player count is 0.
+[23:58:08]: The TPS is 20.
+[23:58:08]: The current RAM usage is 3421MB / 3800MB (90.03%).
+[23:58:08]: The current player count is 0.
